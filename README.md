@@ -10,7 +10,7 @@ The purpose of Ads CTR Analysis is to evaluate the performance of online adverti
 #### Process Overview
 The process of Ads CTR Analysis and Forecasting involves the following key steps:
 
-1. **Data Gathering:** Collect ad data, including the number of ad impressions, clicks, and other relevant metrics. An ideal dataset for this analysis can be downloaded https://statso.io/ads-click-through-rate-case-study/
+1. **Data Gathering:** Collect ad data, including the number of ad impressions, clicks, and other relevant metrics. An ideal dataset for this analysis can be downloaded from [here](https://statso.io/ads-click-through-rate-case-study/)
 
 2. **Data Exploration:** Explore the collected data to comprehend its characteristics and distribution. Calculate basic statistics like mean CTR and standard deviation.
 
@@ -25,7 +25,7 @@ The process of Ads CTR Analysis and Forecasting involves the following key steps
 #### Getting Started
 To start with Ads CTR Analysis and Forecasting, follow these steps:
 
-1. **Download Dataset:** Obtain the dataset for Ads CTR Analysis and Forecasting from [link-to-dataset].
+1. **Download Dataset:** Obtain the dataset for Ads CTR Analysis and Forecasting from [here](https://statso.io/ads-click-through-rate-case-study/)
 
 2. **Setup Python Environment:** Ensure you have Python installed along with necessary libraries like Pandas, Matplotlib, and Scikit-Learn.
 
