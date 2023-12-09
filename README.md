@@ -25,8 +25,7 @@ The process of Ads CTR Analysis and Forecasting involves the following key steps
 #### Getting Started
 To start with Ads CTR Analysis and Forecasting, follow these steps:
 
-1. **Download Dataset:** Obtain the dataset for Ads CTR Analysis and Forecasting from [here](https://statso.io/ads-click-through-rate-case-study/)
-
+1. **Download Dataset:** Obtain the dataset for Ads CTR Analysis and Forecasting from the link provided above.
 2. **Setup Python Environment:** Ensure you have Python installed along with necessary libraries like Pandas, Matplotlib, and Scikit-Learn.
 
 3. **Run Python Scripts:** Use Python scripts to perform data exploration, visualization, analysis, and forecasting based on the provided steps.
